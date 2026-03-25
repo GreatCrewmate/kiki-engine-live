@@ -1,7 +1,7 @@
 There are some ways to contact with us.
 
 # Discord
-GCrew: gcrew
+GCrew: gcrew<br>
 AWHNathan: .awhnathan
 
 # Telegram
