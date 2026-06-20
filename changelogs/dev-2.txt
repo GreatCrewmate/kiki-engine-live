@@ -1,0 +1,3 @@
+Kiki Engine: Redux started to be developed (the engine will be rewritten from a scratch again).
+Released at: 06/20/2026
+This version is not public.
