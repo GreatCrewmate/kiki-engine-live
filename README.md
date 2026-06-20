@@ -32,12 +32,12 @@ This repository will have:
 | Discord RPC | Displays the game status on [Discord](https://discord.com/). |
 
 ## Checklist
-- [] Add main stuff (*e.g. characters, notes, mechanics, menus*)
-- [] Add chart import system ([Codename](https://codename-engine.com/) or [Psych](https://github.com/ShadowMario/FNF-PsychEngine/) *charts*)
-- [] Add XML spritesheet loader (***for legacy sprites only!***)
-- [] Add video support
-- [] Add language support
-- [] \(Optional) Add mini-games
+- [ ] Add main stuff (*e.g. characters, notes, mechanics, menus*)
+- [ ] Add chart import system ([Codename](https://codename-engine.com/) or [Psych](https://github.com/ShadowMario/FNF-PsychEngine/) *charts*)
+- [ ] Add XML spritesheet loader (***for legacy sprites only!***)
+- [ ] Add video support
+- [ ] Add language support
+- [ ] \(Optional) Add mini-games
 - [x] \(Optional) Switch graphic API to Vulkan
 
 # That's it for now. Also check this out- (old stuff btw)
