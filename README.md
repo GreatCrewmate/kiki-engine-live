@@ -27,4 +27,4 @@ This repository will have:
 | Discord RPC | Displays the game status on [Discord](https://discord.com/). |
 
 # That's it! Also check this out-
-<img src="./art/EngineLogo.svg" width="250" align="center">
+<div style="text-align: center"><img src="./art/EngineLogo.svg" width="250"></div>
