@@ -27,4 +27,6 @@ This repository will have:
 | Discord RPC | Displays the game status on [Discord](https://discord.com/). |
 
 # That's it! Also check this out-
-<div style="text-align: center"><img src="./art/EngineLogo.svg" width="250"></div>
+<div align="center">
+    <img src="./art/EngineLogo.svg" width="250" alt="Kiki Engine logo">
+</div>
