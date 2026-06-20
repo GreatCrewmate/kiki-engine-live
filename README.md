@@ -28,5 +28,7 @@ This repository will have:
 
 # That's it! Also check this out-
 <div align="center">
-    <img src="./art/EngineLogo.svg" width="250" alt="Kiki Engine logo">
+    <picture>
+        <img src="./art/EngineLogo.svg" width="250" alt="Kiki Engine logo">
+    </picture>
 </div>
