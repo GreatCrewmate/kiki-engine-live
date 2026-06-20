@@ -31,6 +31,7 @@ This repository will have:
 | Code editor ***(maybe???)*** | Supports GDScript API |
 | Discord RPC | Displays the game status on [Discord](https://discord.com/). |
 
+## Checklist
 - [] Add main stuff (*e.g. characters, notes, mechanics, menus*)
 - [] Add chart import system ([Codename](https://codename-engine.com/) or [Psych](https://github.com/ShadowMario/FNF-PsychEngine/) *charts*)
 - [] Add XML spritesheet loader (***for legacy sprites only!***)
