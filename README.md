@@ -41,7 +41,7 @@ This repository will have:
 - [x] **(Optional)** Switch graphic API to Vulkan
 
 # Changelogs
-You can check for changelogs of the engine [here](https://gitlab.com/billcipher3518/kiki-engine-changelogs/).
+You can check for changelogs of the engine [here](https://gitlab.com/greatcrewmate/kiki-engine-changelogs/).
 
 # That's it for now. Also check this out- (old stuff btw)
 <div align="center">
