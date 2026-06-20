@@ -1,3 +1,0 @@
-The first dev version of Kiki Engine!
-Released at: 03/26/2026
-This version is not public.

@@ -40,6 +40,9 @@ This repository will have:
 - [ ] **(Optional)** Add mini-games
 - [x] **(Optional)** Switch graphic API to Vulkan
 
+# Changelogs
+You can check for changelogs of the engine [here](https://gitlab.com/billcipher3518/kiki-engine-changelogs/).
+
 # That's it for now. Also check this out- (old stuff btw)
 <div align="center">
     <picture>
