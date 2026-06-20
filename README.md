@@ -37,8 +37,8 @@ This repository will have:
 - [ ] Add XML spritesheet loader (***for legacy sprites only!***)
 - [ ] Add video support
 - [ ] Add language support
-- [ ] \(Optional) Add mini-games
-- [x] \(Optional) Switch graphic API to Vulkan
+- [ ] **(Optional)** Add mini-games
+- [x] **(Optional)** Switch graphic API to Vulkan
 
 # That's it for now. Also check this out- (old stuff btw)
 <div align="center">
