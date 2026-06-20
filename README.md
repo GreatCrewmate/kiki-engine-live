@@ -26,8 +26,8 @@ This repository will have:
 | Code editor ***(maybe???)*** | Supports GDScript API |
 | Discord RPC | Displays the game status on [Discord](https://discord.com/). |
 
-# That's it! Also check this out-
 <div align="center">
+    <h1>That's it! Also check this out-</h1>
     <picture>
         <img src="./art/EngineLogo.svg" width="250" alt="Kiki Engine logo">
     </picture>
