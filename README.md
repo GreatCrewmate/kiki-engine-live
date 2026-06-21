@@ -35,7 +35,7 @@ This repository will have:
 - [ ] Add main stuff (*e.g. characters, notes, mechanics, menus*)
 - [ ] Add chart import system ([Codename](https://codename-engine.com/) or [Psych](https://github.com/ShadowMario/FNF-PsychEngine/) *charts*)
 - [ ] Add XML spritesheet loader (***for legacy sprites only!***)
-- [ ] Add video support
+- [x] ~~Add video support~~ (*there's a video support already*)
 - [ ] Add language support
 - [ ] **(Optional)** Add mini-games
 - [x] **(Optional)** Switch graphic API to Vulkan
